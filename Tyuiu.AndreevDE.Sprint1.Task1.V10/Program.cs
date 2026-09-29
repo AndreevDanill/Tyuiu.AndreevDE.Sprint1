@@ -15,7 +15,7 @@ namespace Tyuiu.AndreevDE.Sprint1.Task1.V10
             Console.Title = "Спринт #1 / Выполнил: Андреев Д. Е. / СМАРТб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Организация ввода/вывода в консольных приложениях.                *");
+            Console.WriteLine("* Тема: Организация ввода/вывода в консольных приложениях                 *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #10                                                             *");
             Console.WriteLine("* Выполнил: Андреев Даниил Евгеньевич / СМАРТб-26-1                       *");
@@ -33,7 +33,7 @@ namespace Tyuiu.AndreevDE.Sprint1.Task1.V10
 
             Console.WriteLine("Введите значение X:");
             x = Convert.ToDouble(Console.ReadLine());
-
+            
             Console.WriteLine("Введите значение Y:");
             y = Convert.ToDouble(Console.ReadLine());
 
